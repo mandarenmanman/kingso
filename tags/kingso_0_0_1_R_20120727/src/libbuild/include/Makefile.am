@@ -1,2 +1,0 @@
-SUBDIRS=ks_build
-
